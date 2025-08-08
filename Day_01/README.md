@@ -1,5 +1,4 @@
 ## **Day 1 – 100 Days of Python**  
-**Date:** 8th August 2025  
 
 📌 **Today's Focus:**  
 - Setting up the environment  

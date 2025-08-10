@@ -15,7 +15,6 @@ This repository will serve as a **public log** of my progress, coding style, and
 Each day has its **own folder** with:
 1. Python source code  
 2. A `README.md` explaining the project  
-3. Example outputs/screenshots
 
 Example:
 

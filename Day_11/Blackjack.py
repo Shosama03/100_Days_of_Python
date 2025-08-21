@@ -40,6 +40,7 @@ def compare(u_score,c_score):
     else:
         print(lose)
         return "You lose!!!"
+
 def play_game():
     print(logo)
     user_cards=[]

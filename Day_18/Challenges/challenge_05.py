@@ -21,7 +21,7 @@ def draw_spirograph(size_of_gap):
         current_heading=tim.heading()
         tim.setheading(current_heading+size_of_gap)
 
-
+tim.hideturtle()
 draw_spirograph(1)
 screen=turtle.Screen()
 screen.exitonclick()
